@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/blanet/submodules/b"
+	"github.com/blanet/submodules/aa/bb/cc"
 )
 
-const Name = b.Name
+const Name = cc.Name
 
 func main() {
 	fmt.Println(Name)
