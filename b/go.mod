@@ -1,3 +1,3 @@
-module github.com/blanet/submodules/b
+module github.com/blanet/submodules.git/b
 
 go 1.12
